@@ -1,5 +1,6 @@
 package com.chenmr.parseXML.SAX;
 
+import com.chenmr.parseXML.entity.Book;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;

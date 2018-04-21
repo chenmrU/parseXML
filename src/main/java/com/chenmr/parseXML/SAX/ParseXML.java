@@ -1,5 +1,7 @@
 package com.chenmr.parseXML.SAX;
 
+import com.chenmr.parseXML.entity.Book;
+
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.chenmr.parseXML.SAX;
+package com.chenmr.parseXML.entity;
 
 import lombok.Getter;
 import lombok.Setter;
