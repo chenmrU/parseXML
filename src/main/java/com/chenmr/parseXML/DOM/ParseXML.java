@@ -11,7 +11,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 /**
  * Created by Chenmr on 2018/4/21/021.
  */
-public class ParesXML {
+public class ParseXML {
 
     public static void main(String[] args) {
 
